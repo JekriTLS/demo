@@ -1,5 +1,6 @@
 package com.xiaorui.gitdemo1;
 
+@Componet
 public class User {
     private  String name ;
 
