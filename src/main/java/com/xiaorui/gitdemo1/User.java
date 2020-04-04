@@ -1,6 +1,6 @@
 package com.xiaorui.gitdemo1;
 
-
+merge
 public class User {
     private  String name ;
 
